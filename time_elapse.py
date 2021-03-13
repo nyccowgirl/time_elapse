@@ -134,6 +134,6 @@ def display():
 
 if __name__ == '__main__':
 
-    print("Time lapse of sequential events in format of DDD:HH:MM:SS:")
+    print("Time lapse of sequential events in format of H:MM:SS:")
 
     display()
